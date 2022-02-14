@@ -5,9 +5,9 @@
 #     print("non l.year")
 
 def nam(**a):
-    i=0
-    while i<a.items:
-        print(i)
+    # i=0
+    # while i<a.items:
+        print(a)
 nam(amrita=1,manpreet=2,shivangi=3)
 
 

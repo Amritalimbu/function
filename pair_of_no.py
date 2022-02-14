@@ -7,7 +7,7 @@ def num():
         y=[]
         j=0
         while j<len(n):
-            if n[i]+n[j]==number and n[j]>n[i]:
+            if n[i]+n[j]==number and n[i]<n[j]:
                 y.append(n[i])
                 y.append(n[j])
                 x.append(y)

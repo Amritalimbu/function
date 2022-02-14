@@ -18,8 +18,10 @@ def am():
     print(a.replace(' ','-'))
 am()
 
+
+a="amrita limbu aite bha limbu"
 def rep():
-    a="amrita limbu aite bha limbu"
-    b=a.replace(' ',',')
+    # a="amrita limbu aite bha limbu"
+    b=a.replace(' ','_')
     print(b)
 rep()

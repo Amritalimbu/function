@@ -17,6 +17,4 @@ def sub(x,y):
 def main():
     print(add(2,4))
     print(add(4,4))
-    print(sub(12,6))
-    print(sub(7,2))
 main()

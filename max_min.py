@@ -10,7 +10,7 @@
 
 # no()
 
-l=[3,20,61,7000,800,2]
+l=[-3,20,61,700,-2,800,2]
 # l=[-1,-6,-8]
 i=0
 a=l[0]
@@ -24,10 +24,3 @@ while i<len(l):
 print(a, "max")
 print(b,"min")
 
-
-# b=1
-# while i<len(l):
-#     if l[i]<b:
-#         b=l[i]
-#     i=i+1
-# print(b)

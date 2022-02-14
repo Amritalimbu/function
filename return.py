@@ -40,8 +40,8 @@
 # b=int(input("enter the no."))
 # print(mul(a*b))
 
-a="my name is reena"
-b=a.replace(" ","-")
-# return(b)
-print(b)
+# a="my name is reena"
+# b=a.replace(" ","-")
+# # return(b)
+# print(b)
 

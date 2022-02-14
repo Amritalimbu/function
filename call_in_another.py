@@ -10,13 +10,3 @@ def mdl():
     z=x%y
     print(z)
 div()
-
-
-def div(a,b):
-    c=a/b
-    print(c)
-    mdl(10,5)
-def mdl(x,y):
-    z=x%y
-    print(z)
-div(20,10)

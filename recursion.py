@@ -7,13 +7,13 @@
 
 # with global function
 # i=0 is global variable
-i=1
-def name():
-    global i
-    i=i+0
-    print("amrita",i)
-    name()
-name()
+# i=1
+# def name():
+#     global i
+#     i=i+0
+#     print("amrita",i)
+#     name()
+# name()
 
 # local function
 # i=0
